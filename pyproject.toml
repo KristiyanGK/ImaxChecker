@@ -1,0 +1,39 @@
+[project]
+name = "imax-checker"
+version = "0.1.0"
+description = "Notifies when tickets for an IMAX screening of a movie go on sale at Cinema City Flora (Prague)"
+authors = [
+    { name = "KristiyanGK", email = "kristiangk98@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28.1",
+    "pydantic[email]>=2.14.1",
+    "pydantic-settings>=2.16.1",
+    "tenacity>=9.2.1",
+]
+
+[project.scripts]
+imax-checker = "imax_checker.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.4,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "respx>=0.23.1",
+    "ruff>=0.17.1",
+]
+
+[tool.ruff]
+target-version = "py314"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

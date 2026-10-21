@@ -1,0 +1,10 @@
+.env
+.state/
+.venv/
+__pycache__/
+*.pyc
+.idea/workspace.xml
+.pytest_cache/
+.ruff_cache/
+checker.log
+dist/

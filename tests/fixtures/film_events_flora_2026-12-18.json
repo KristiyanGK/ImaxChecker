@@ -1,0 +1,429 @@
+{
+    "body": {
+        "films": [
+            {
+                "id": "7879s2r",
+                "name": "Avengers: Doomsday",
+                "length": 165,
+                "posterLink": "https://www.cinemacity.cz/xmedia-cw/repo/feats/posters/7879S2R.jpg",
+                "videoLink": "https://www.youtube.com/watch?v=gVndBKAeoYM",
+                "link": "https://www.cinemacity.cz/films/avengers-doomsday/7879s2r",
+                "weight": 0,
+                "releaseYear": "2026",
+                "releaseDate": "2026-12-17T00:00:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "action",
+                    "adventure",
+                    "dubbed",
+                    "dubbed-lang-cs",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ]
+            },
+            {
+                "id": "8105s2r",
+                "name": "Dune: Part Three",
+                "length": 145,
+                "posterLink": "https://www.cinemacity.cz/xmedia-cw/repo/feats/posters/8105S2R.jpg",
+                "videoLink": "https://www.youtube.com/watch?v=As8PZIvtKBU",
+                "link": "https://www.cinemacity.cz/films/duna-cast-treti/8105s2r",
+                "weight": 0,
+                "releaseYear": "2026",
+                "releaseDate": "2026-12-17T00:00:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "70-mm",
+                    "action",
+                    "adventure",
+                    "drama",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ]
+            }
+        ],
+        "events": [
+            {
+                "id": "267906",
+                "filmId": "8105s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T10:40:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "70-mm",
+                    "action",
+                    "adventure",
+                    "drama",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [],
+                    "voiceover": [],
+                    "subtitles": [
+                        "cs"
+                    ]
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/267906?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/267906",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/267906?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/267906?lang=en",
+                "presentationCode": "267906",
+                "soldOut": false,
+                "availabilityRatio": 0.3195,
+                "auditorium": "IMAX VOLVO",
+                "auditoriumTinyName": "IMAX"
+            },
+            {
+                "id": "267908",
+                "filmId": "8105s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T14:00:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "70-mm",
+                    "action",
+                    "adventure",
+                    "drama",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [],
+                    "voiceover": [],
+                    "subtitles": [
+                        "cs"
+                    ]
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/267908?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/267908",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/267908?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/267908?lang=en",
+                "presentationCode": "267908",
+                "soldOut": false,
+                "availabilityRatio": 0.2494,
+                "auditorium": "IMAX VOLVO",
+                "auditoriumTinyName": "IMAX"
+            },
+            {
+                "id": "260321",
+                "filmId": "7879s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T17:20:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "action",
+                    "adventure",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [],
+                    "voiceover": [],
+                    "subtitles": [
+                        "cs"
+                    ]
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/260321?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/260321",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/260321?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/260321?lang=en",
+                "presentationCode": "260321",
+                "soldOut": false,
+                "availabilityRatio": 0.8771,
+                "auditorium": "S\u00e1l 05",
+                "auditoriumTinyName": "5"
+            },
+            {
+                "id": "267909",
+                "filmId": "8105s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T17:20:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "70-mm",
+                    "action",
+                    "adventure",
+                    "drama",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [],
+                    "voiceover": [],
+                    "subtitles": [
+                        "cs"
+                    ]
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/267909?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/267909",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/267909?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/267909?lang=en",
+                "presentationCode": "267909",
+                "soldOut": false,
+                "availabilityRatio": 0.2026,
+                "auditorium": "IMAX VOLVO",
+                "auditoriumTinyName": "IMAX"
+            },
+            {
+                "id": "267897",
+                "filmId": "8105s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T18:00:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "action",
+                    "adventure",
+                    "drama",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [],
+                    "voiceover": [],
+                    "subtitles": [
+                        "cs"
+                    ]
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/267897?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/267897",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/267897?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/267897?lang=en",
+                "presentationCode": "267897",
+                "soldOut": false,
+                "availabilityRatio": 0.9932,
+                "auditorium": "S\u00e1l 01",
+                "auditoriumTinyName": "1"
+            },
+            {
+                "id": "260320",
+                "filmId": "7879s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T19:00:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "action",
+                    "adventure",
+                    "dubbed",
+                    "dubbed-lang-cs",
+                    "sci-fi"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [
+                        "cs"
+                    ],
+                    "voiceover": [],
+                    "subtitles": []
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/260320?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/260320",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/260320?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/260320?lang=en",
+                "presentationCode": "260320",
+                "soldOut": false,
+                "availabilityRatio": 0.9735,
+                "auditorium": "S\u00e1l 06",
+                "auditoriumTinyName": "6"
+            },
+            {
+                "id": "260322",
+                "filmId": "7879s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T20:40:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "action",
+                    "adventure",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [],
+                    "voiceover": [],
+                    "subtitles": [
+                        "cs"
+                    ]
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/260322?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/260322",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/260322?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/260322?lang=en",
+                "presentationCode": "260322",
+                "soldOut": false,
+                "availabilityRatio": 0.9274,
+                "auditorium": "S\u00e1l 05",
+                "auditoriumTinyName": "5"
+            },
+            {
+                "id": "267910",
+                "filmId": "8105s2r",
+                "cinemaId": "1052",
+                "businessDay": "2026-12-18",
+                "eventDateTime": "2026-12-18T20:40:00",
+                "attributeIds": [
+                    "12-plus",
+                    "2d",
+                    "70-mm",
+                    "action",
+                    "adventure",
+                    "drama",
+                    "first-subbed-lang-cs",
+                    "sci-fi",
+                    "subbed"
+                ],
+                "languages": {
+                    "original": [
+                        "en"
+                    ],
+                    "dubbed": [],
+                    "voiceover": [],
+                    "subtitles": [
+                        "cs"
+                    ]
+                },
+                "bookingLink": "https://tickets.cinemacity.cz/api/order/267910?lang=en",
+                "compositeBookingLink": {
+                    "type": "PG",
+                    "bookingUrl": {
+                        "url": "https://tickets.cinemacity.cz/api/order/267910",
+                        "params": {
+                            "lang": "en-GB"
+                        }
+                    },
+                    "obsoleteBookingUrl": "https://tickets.cinemacity.cz/api/order/267910?lang=en",
+                    "blockOnlineSales": false,
+                    "blockOnlineSalesUntil": null,
+                    "serviceUrl": "https://www.cinemacity.cz/booking"
+                },
+                "bookingRouterLaunchLink": "https://www.cinemacity.cz/cz/booking-router/launch/1052/267910?lang=en",
+                "presentationCode": "267910",
+                "soldOut": false,
+                "availabilityRatio": 0.2,
+                "auditorium": "IMAX VOLVO",
+                "auditoriumTinyName": "IMAX"
+            }
+        ]
+    }
+}
